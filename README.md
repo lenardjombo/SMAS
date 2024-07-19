@@ -1,4 +1,3 @@
-# SMAS
 <h1 id="title" align="center">SMAS</h1>
 
 <p id="description">SMAS is a web-application created with django.The main purpose for its creation is to help students in the field of StatisticsMathematics and Actuarial science learn and code in R programming language without the need of personal computers. SMAS is mainly targeted for students who do not have access to personal computers and anyone wishing to code on their smartphone due to mobility and portability of smartphones.</p>
