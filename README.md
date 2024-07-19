@@ -119,6 +119,7 @@ Technologies used in the project:
 *   html5
 *   css3
 *   MDBootstrap
+*   CodeMirror API
 
 <h2>🛡️ License:</h2>
 
