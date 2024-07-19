@@ -4,9 +4,10 @@
 
 <h2>Project Screenshots:</h2>
 
-![Uploading Screen Shot 2024-07-19 at 18.44.53.png…]()
-![Uploading Screen Shot 2024-07-19 at 18.44.40.png…]()
+![Screen Shot 2024-07-19 at 18 44 53](https://github.com/user-attachments/assets/91b546a4-fff9-460a-92cb-977e1ac974b8)
 
+
+![Screen Shot 2024-07-19 at 18 44 40](https://github.com/user-attachments/assets/8142a624-8fd4-40fd-9695-ddab25f87f2a)
 
   
   
