@@ -6,7 +6,8 @@
 
 ## Screenshot Example
 
-<img src="https://github.com/user-attachments/assets/91b546a4-fff9-460a-92cb-977e1ac974b8" alt="Screen Shot 2024-07-19 at 18 44 53" width="1200">  
+![resizedcompiler](https://github.com/user-attachments/assets/69ed9d8e-4c2e-416a-b42f-252d3692ce5c)
+
   
 <h2>🧐 Features</h2>
 
