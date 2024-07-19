@@ -5,9 +5,9 @@
 
 <h2>Project Screenshots:</h2>
 
-<img src="" alt="project-screenshot" width="400" height="400/">
+![Uploading Screen Shot 2024-07-19 at 18.44.53.png…]()
+![Uploading Screen Shot 2024-07-19 at 18.44.40.png…]()
 
-<img src="" alt="project-screenshot" width="400" height="400/">
 
   
   
